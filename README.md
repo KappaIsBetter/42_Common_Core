@@ -28,7 +28,7 @@ This repository contains all my work, projects, and experiences during my time a
 🔹 [`Philosophers`](./philosophers/) → **Concurrency & multithreading** challenge.  
 
 ### 🔗 **Advanced Projects**
-🔹 [`Cub3D`](./cub3d/) → **First-person 3D game engine** inspired by Wolfenstein 3D.  
+🔹 [`Cub3D`](./cube3d/) → **First-person 3D game engine** inspired by Wolfenstein 3D.  
 🔹 [`C++ Modules`](./cpp_modules/) → **Object-oriented programming** in C++.  
 🔹 [`Inception`](./inception/) → **Containerized system with Docker & Kubernetes**.  
 
